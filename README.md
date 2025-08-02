@@ -1,3 +1,4 @@
+![GitHub Pages](https://img.shields.io/github/pages/status/Satvik12345678/software-landing-page?style=flat)
 # SoftLaunch — Software Landing Page
 
 This repository contains a responsive software product landing page built with vanilla HTML, CSS, and JavaScript. It is intended as an internship/project submission and deployable via GitHub Pages.
@@ -59,7 +60,8 @@ This repository contains a responsive software product landing page built with v
 - Dark mode toggle  
 - Video demo embed  
 - Analytics stub  
-- Animated feature cards  
+- Animated feature cards
+Add GitHub Pages status badge
 
 ## License
 
